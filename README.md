@@ -7,11 +7,11 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=MeuGitHub"
+  srcset="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Meu%20GitHub"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&include_all_commits=true$count_private=true&custom_title=MeuGitHub"
+  srcset="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&include_all_commits=true$count_private=true&custom_title=Meu%20GitHub"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true" />
@@ -19,7 +19,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&custom_title=Linguagens%20mais%20usadas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
