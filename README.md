@@ -6,10 +6,10 @@
 ##
 
 <a href="https://github.com/Daniel-lpj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&include_all_commits=true$count_private=true&theme=dark&custom_title=Meu%20GitHub&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&custom_title=Linguagens%20mais%20usadas&theme=dark&locale=pt-br" />
 </a>
 <a href="https://github.com/Daniel-lpj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&custom_title=Linguagens%20mais%20usadas&theme=dark&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&include_all_commits=true$count_private=true&theme=dark&custom_title=Meu%20GitHub&locale=pt-br" />
 </a>
 
 ##
