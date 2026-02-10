@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Daniel Luiz
+# 👨‍💻 Daniel Junior
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;Building+Modern+Interfaces;Always+Learning+🚀"/>
 
