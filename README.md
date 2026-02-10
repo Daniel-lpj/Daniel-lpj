@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Daniel%20Junior&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=200&section=header&text=Daniel%20Junior&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;UI+Performance+Lover;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;UI+Performance+Focused;Building+Modern+Interfaces+🚀"/>
 
 </div>
 
@@ -10,14 +10,14 @@
 
 # ⚡ About Me
 
-💻 Front-end Developer focado em criar interfaces modernas e performáticas.
+💻 Desenvolvedor Front-end focado em interfaces modernas, performance e arquitetura limpa.
 
 🚀 Stack principal:
 
 - React
 - Angular
-- JavaScript / TypeScript
-- UI Performance & UX
+- TypeScript / JavaScript
+- UX & Performance
 - Estudando Java ☕
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-# 🔥 GitHub Stats
+# 🔥 GitHub Dashboard
 
 <div align="center">
 
@@ -102,5 +102,5 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
 
