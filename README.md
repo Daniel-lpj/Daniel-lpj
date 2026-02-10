@@ -1,37 +1,38 @@
 <div align="center">
 
-# 👨‍💻 Daniel Junior
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Daniel%20Junior&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;Building+Modern+Interfaces;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;UI+Performance+Lover;Always+Learning+New+Things+🚀"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# ⚡ About Me
 
-💻 Desenvolvedor Front-end focado em criar experiências modernas, performáticas e escaláveis.
+💻 Front-end Developer focado em criar interfaces modernas e performáticas.
 
-🔥 Stack principal:
+🚀 Stack principal:
 
-- React / Angular
+- React
+- Angular
 - JavaScript / TypeScript
-- UI moderna e performance
-- Explorando backend com Java ☕
+- UI Performance & UX
+- Estudando Java ☕
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,java,python,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,java,python,git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Stats
+# 🔥 GitHub Stats
 
 <div align="center">
 
@@ -43,7 +44,7 @@
 
 ---
 
-## ⚡ Commit Streak
+# ⚡ Commit Streak
 
 <div align="center">
 
@@ -53,7 +54,7 @@
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -63,17 +64,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -83,20 +84,23 @@
 
 ---
 
-## 🌐 Contato
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://instagram.com/daniel_lpj">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:danielluiz.junior2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/daniel-luiz-de-paula-junior-076871197">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
