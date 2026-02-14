@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=200&section=header&text=Daniel%20Junior&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=220&section=header&text=Daniel%20Junior&fontSize=50&fontColor=00F7FF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Front-end+Developer;React+%7C+Angular+%7C+TypeScript;UI+Performance+Focused;Building+Modern+Interfaces+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Frontend+Engineer;React+%7C+Angular+%7C+TypeScript;Performance+Driven+UI;Building+Modern+Experiences+🚀"/>
 
 </div>
 
@@ -10,15 +10,16 @@
 
 # ⚡ About Me
 
-💻 Desenvolvedor Front-end focado em interfaces modernas, performance e arquitetura limpa.
+🚀 Front-end Developer apaixonado por criar interfaces modernas, rápidas e bem estruturadas.
 
-🚀 Stack principal:
+💡 Foco em:
 
-- React
-- Angular
-- TypeScript / JavaScript
-- UX & Performance
-- Estudando Java ☕
+- Performance real (não só Lighthouse 😈)
+- Arquitetura limpa
+- Experiência do usuário
+- Componentização escalável
+
+📚 Atualmente estudando Java ☕
 
 ---
 
@@ -32,23 +33,33 @@
 
 ---
 
-# 🔥 GitHub Dashboard
+# 🔥 Frontend Expertise
+
+✨ UI Performance Optimization  
+✨ Component Architecture  
+✨ Responsive & Accessible Interfaces  
+✨ Design Systems Thinking  
+✨ SPA Performance
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app](https://github-readme-stats.vercel.app/api)/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165em" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api](https://github-readme-stats.vercel.app/api)/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Commit Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Daniel-lpj&theme=tokyonight&hide_border=true"/>
+<img loading="lazy" src="https://streak-stats.demolab.com?user=Daniel-lpj&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -58,17 +69,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-lpj&theme=tokyo-night&hide_border=true"/>
+<img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-lpj&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="[https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight)"/>
+<img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -84,7 +95,7 @@
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
