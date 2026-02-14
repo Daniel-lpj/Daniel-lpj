@@ -43,10 +43,14 @@
 
 ---
 
-# 📊 GitHub Stats & Tech Stack
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Daniel-lpj/Daniel-lpj/master/github-metrics.svg" alt="Metrics" width="100%">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
