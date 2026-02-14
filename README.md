@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app](https://github-readme-stats.vercel.app/api)/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api](https://github-readme-stats.vercel.app/api)/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight)"/>
 
 </div>
 
