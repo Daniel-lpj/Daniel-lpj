@@ -47,9 +47,9 @@
 
 <div align="center">
 
-<img height="160em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-lpj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=141E30&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="160em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lpj&layout=compact&theme=tokyonight&hide_border=true&bg_color=141E30&title_color=00F7FF"/>
 
 </div>
 
@@ -78,9 +78,7 @@
 # 🏆 Achievements
 
 <div align="center">
-
-<img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=Daniel-lpj&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://raw.githubusercontent.com/Daniel-lpj/Daniel-lpj/master/github-metrics.svg" alt="Metrics">
 </div>
 
 ---
