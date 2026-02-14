@@ -78,7 +78,7 @@
 # 🏆 Achievements
 
 <div align="center">
-  <img src="https://github.com/Daniel-lpj/Daniel-lpj/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/Daniel-lpj/Daniel-lpj/master/github-metrics.svg" alt="Metrics">
 </div>
 
 ---
